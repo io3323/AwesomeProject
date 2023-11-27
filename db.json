@@ -1,0 +1,843 @@
+{
+  "chineseCars": [
+    {
+      "id": 1,
+      "brand": "Great Wall",
+      "models": [
+        {
+          "id": 1,
+          "model": "Haval H6",
+          "year": 2023,
+          "engine": "2.0L Turbocharged",
+          "transmission": "Automatic",
+          "price": "$25,000",
+          "color": "Red",
+          "topSpeed": "200 km/h"
+        },
+        {
+          "id": 2,
+          "model": "Haval H9",
+          "year": 2023,
+          "engine": "2.0L Turbocharged",
+          "transmission": "Automatic",
+          "price": "$35,000",
+          "color": "Blue",
+          "topSpeed": "190 km/h"
+        },
+        {
+          "id": 3,
+          "model": "Haval F7",
+          "year": 2023,
+          "engine": "1.5L Turbocharged",
+          "transmission": "CVT",
+          "price": "$28,000",
+          "color": "White",
+          "topSpeed": "180 km/h"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "brand": "Geely",
+      "models": [
+        {
+          "id": 4,
+          "model": "Coolray",
+          "year": 2023,
+          "engine": "1.5L Turbocharged",
+          "transmission": "CVT",
+          "price": "$22,000",
+          "color": "Blue",
+          "topSpeed": "180 km/h"
+        },
+        {
+          "id": 5,
+          "model": "Bo Rui GE",
+          "year": 2023,
+          "engine": "1.8L Turbocharged",
+          "transmission": "Automatic",
+          "price": "$25,000",
+          "color": "Silver",
+          "topSpeed": "190 km/h"
+        },
+        {
+          "id": 6,
+          "model": "Xingyue L",
+          "year": 2023,
+          "engine": "2.0L Turbocharged",
+          "transmission": "CVT",
+          "price": "$32,000",
+          "color": "Green",
+          "topSpeed": "210 km/h"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "brand": "BYD",
+      "models": [
+        {
+          "id": 7,
+          "model": "Tang",
+          "year": 2023,
+          "engine": "2.0L Turbo Hybrid",
+          "transmission": "Dual-Clutch",
+          "price": "$30,000",
+          "color": "Silver",
+          "topSpeed": "220 km/h"
+        },
+        {
+          "id": 8,
+          "model": "Song Plus",
+          "year": 2023,
+          "engine": "1.5L Turbocharged",
+          "transmission": "CVT",
+          "price": "$28,000",
+          "color": "Silver",
+          "topSpeed": "200 km/h"
+        },
+        {
+          "id": 9,
+          "model": "e6",
+          "year": 2023,
+          "engine": "Electric",
+          "transmission": "Single Speed",
+          "price": "$35,000",
+          "color": "Yellow",
+          "topSpeed": "180 km/h"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "brand": "Chery",
+      "models": [
+        {
+          "id": 10,
+          "model": "Exeed TXL",
+          "year": 2023,
+          "engine": "1.6L Turbocharged",
+          "transmission": "Automatic",
+          "price": "$24,500",
+          "color": "White",
+          "topSpeed": "190 km/h"
+        },
+        {
+          "id": 11,
+          "model": "Arrizo GX",
+          "year": 2023,
+          "engine": "1.6L Turbocharged",
+          "transmission": "Automatic",
+          "price": "$23,000",
+          "color": "Gold",
+          "topSpeed": "190 km/h"
+        },
+        {
+          "id": 12,
+          "model": "Tiggo 8",
+          "year": 2023,
+          "engine": "1.5L Turbocharged",
+          "transmission": "CVT",
+          "price": "$27,000",
+          "color": "Black",
+          "topSpeed": "200 km/h"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "brand": "NIO",
+      "models": [
+        {
+          "id": 13,
+          "model": "ES8",
+          "year": 2023,
+          "engine": "Dual Electric Motors",
+          "transmission": "Single Speed",
+          "price": "$60,000",
+          "color": "Black",
+          "topSpeed": "250 km/h"
+        },
+        {
+          "id": 14,
+          "model": "EC6",
+          "year": 2023,
+          "engine": "Dual Electric Motors",
+          "transmission": "Single Speed",
+          "price": "$55,000",
+          "color": "Blue",
+          "topSpeed": "240 km/h"
+        },
+        {
+          "id": 15,
+          "model": "ET7",
+          "year": 2023,
+          "engine": "Dual Electric Motors",
+          "transmission": "Single Speed",
+          "price": "$70,000",
+          "color": "Brown",
+          "topSpeed": "260 km/h"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "brand": "Lynk & Co",
+      "models": [
+        {
+          "id": 16,
+          "model": "01",
+          "year": 2023,
+          "engine": "1.5L Turbocharged",
+          "transmission": "Automatic",
+          "price": "$25,500",
+          "color": "Green",
+          "topSpeed": "190 km/h"
+        },
+        {
+          "id": 17,
+          "model": "02",
+          "year": 2023,
+          "engine": "1.5L Turbocharged",
+          "transmission": "Automatic",
+          "price": "$26,500",
+          "color": "Purple",
+          "topSpeed": "190 km/h"
+        },
+        {
+          "id": 18,
+          "model": "03",
+          "year": 2023,
+          "engine": "2.0L Turbocharged",
+          "transmission": "Dual-Clutch",
+          "price": "$28,000",
+          "color": "Red",
+          "topSpeed": "200 km/h"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "brand": "XPeng",
+      "models": [
+        {
+          "id": 19,
+          "model": "P5",
+          "year": 2023,
+          "engine": "Dual Electric Motors",
+          "transmission": "Single Speed",
+          "price": "$42,000",
+          "color": "White",
+          "topSpeed": "220 km/h"
+        },
+        {
+          "id": 20,
+          "model": "G5",
+          "year": 2023,
+          "engine": "Dual Electric Motors",
+          "transmission": "Single Speed",
+          "price": "$45,000",
+          "color": "Teal",
+          "topSpeed": "220 km/h"
+        },
+        {
+          "id": 21,
+          "model": "G9",
+          "year": 2023,
+          "engine": "Dual Electric Motors",
+          "transmission": "Single Speed",
+          "price": "$48,000",
+          "color": "Gray",
+          "topSpeed": "230 km/h"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "brand": "BYD",
+      "models": [
+        {
+          "id": 22,
+          "model": "e3",
+          "year": 2023,
+          "engine": "Electric",
+          "transmission": "Single Speed",
+          "price": "$33,000",
+          "color": "Cyan",
+          "topSpeed": "180 km/h"
+        },
+        {
+          "id": 23,
+          "model": "Tang",
+          "year": 2023,
+          "engine": "2.0L Turbo Hybrid",
+          "transmission": "Dual-Clutch",
+          "price": "$30,000",
+          "color": "Silver",
+          "topSpeed": "220 km/h"
+        },
+        {
+          "id": 24,
+          "model": "Song Plus",
+          "year": 2023,
+          "engine": "1.5L Turbocharged",
+          "transmission": "CVT",
+          "price": "$28,000",
+          "color": "Silver",
+          "topSpeed": "200 km/h"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "brand": "Changan",
+      "models": [
+        {
+          "id": 25,
+          "model": "CS35 Plus",
+          "year": 2023,
+          "engine": "1.6L Turbocharged",
+          "transmission": "Automatic",
+          "price": "$21,000",
+          "color": "White",
+          "topSpeed": "180 km/h"
+        },
+        {
+          "id": 26,
+          "model": "Benben Mini",
+          "year": 2023,
+          "engine": "1.0L Turbocharged",
+          "transmission": "CVT",
+          "price": "$18,000",
+          "color": "Gold",
+          "topSpeed": "160 km/h"
+        },
+        {
+          "id": 27,
+          "model": "Alsvin",
+          "year": 2023,
+          "engine": "1.5L Turbocharged",
+          "transmission": "Automatic",
+          "price": "$20,000",
+          "color": "Silver",
+          "topSpeed": "170 km/h"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "brand": "Haval",
+      "models": [
+        {
+          "id": 28,
+          "model": "H6 Coupe",
+          "year": 2023,
+          "engine": "1.5L Turbocharged",
+          "transmission": "CVT",
+          "price": "$27,000",
+          "color": "Orange",
+          "topSpeed": "200 km/h"
+        },
+        {
+          "id": 29,
+          "model": "F5",
+          "year": 2023,
+          "engine": "1.5L Turbocharged",
+          "transmission": "CVT",
+          "price": "$22,000",
+          "color": "Black",
+          "topSpeed": "190 km/h"
+        },
+        {
+          "id": 30,
+          "model": "Big Dog",
+          "year": 2023,
+          "engine": "2.0L Turbocharged",
+          "transmission": "Automatic",
+          "price": "$30,000",
+          "color": "Yellow",
+          "topSpeed": "210 km/h"
+        }
+      ]
+    }
+  ],
+  "brands": [
+    {"brandId": 1, "brandName": "Great Wall"},
+    {"brandId": 2, "brandName": "Geely"},
+    {"brandId": 3, "brandName": "BYD"},
+    {"brandId": 4, "brandName": "Chery"},
+    {"brandId": 5, "brandName": "NIO"},
+    {"brandId": 6, "brandName": "Lynk & Co"},
+    {"brandId": 7, "brandName": "XPeng"},
+    {"brandId": 8, "brandName": "BYD"},
+    {"brandId": 9, "brandName": "Changan"},
+    {"brandId": 10, "brandName": "Haval"}
+  ],
+  "moreInfoModels": [
+    {
+      "id": 1,
+      "brand": "Great Wall",
+      "model": "Haval H6",
+      "year": 2023,
+      "description": "The Great Wall Haval H6 is a stylish and powerful SUV designed for those who appreciate a blend of performance and comfort. With its 2.0L Turbocharged engine, automatic transmission, and striking red color, it offers a thrilling driving experience. Priced at $25,000, it combines affordability with sophistication. The interior boasts modern features, and its top speed reaches an impressive 200 km/h.",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 2,
+      "brand": "Great Wall",
+      "model": "Haval H9",
+      "year": 2023,
+      "description": "The Great Wall Haval H9 is a premium SUV designed for adventure seekers. Equipped with a robust 2.0L Turbocharged engine and an automatic transmission, this model delivers power and performance. Priced at $35,000, it features a striking blue exterior and a top speed of 190 km/h. The spacious interior and advanced technology make it an ideal choice for those who crave both luxury and capability.",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 3,
+      "brand": "Great Wall",
+      "model": "Haval F7",
+      "year": 2023,
+      "description": "The Great Wall Haval F7 is a compact SUV that combines efficiency with style. Its 1.5L Turbocharged engine and CVT transmission provide a smooth and fuel-efficient ride. With a price tag of $28,000, the white exterior exudes elegance. The Haval F7 offers a top speed of 180 km/h, making it a practical and stylish choice for urban driving.",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 4,
+      "brand": "Geely",
+      "model": "Coolray",
+      "year": 2023,
+      "description": "The Geely Coolray is a versatile and compact SUV designed for modern urban living. With a 1.5L Turbocharged engine and CVT transmission, it delivers a responsive and efficient driving experience. Priced at $22,000, the Coolray features a vibrant blue exterior and a top speed of 180 km/h. Its interior is designed for comfort and convenience, making it a popular choice for city dwellers.",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 5,
+      "brand": "Geely",
+      "model": "Bo Rui GE",
+      "year": 2023,
+      "description": "The Geely Bo Rui GE is a sophisticated sedan that blends performance with elegance. Featuring a 1.8L Turbocharged engine and automatic transmission, it offers a smooth and luxurious driving experience. Priced at $25,000, the silver exterior adds a touch of refinement. With a top speed of 190 km/h, the Bo Rui GE is a stylish option for those seeking a premium sedan.",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 6,
+      "brand": "Geely",
+      "model": "Xingyue L",
+      "year": 2023,
+      "description": "The Geely Xingyue L is a spacious and powerful SUV designed for comfort and performance. Its 2.0L Turbocharged engine and CVT transmission provide a dynamic driving experience. Priced at $32,000, the green exterior adds a touch of flair. With a top speed of 210 km/h, the Xingyue L is a versatile choice for families and adventure enthusiasts.",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 7,
+      "brand": "BYD",
+      "model": "Tang",
+      "year": 2023,
+      "description": "The BYD Tang is a hybrid SUV that combines fuel efficiency with performance. Equipped with a 2.0L Turbo Hybrid engine and Dual-Clutch transmission, it offers a dynamic and eco-friendly driving experience. Priced at $30,000, the silver exterior exudes sophistication. With a top speed of 220 km/h, the Tang is a forward-thinking choice for those who value sustainability.",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 8,
+      "brand": "BYD",
+      "model": "Song Plus",
+      "year": 2023,
+      "description": "The BYD Song Plus is a versatile and stylish SUV designed for urban living. With its 1.5L Turbocharged engine and CVT transmission, it delivers a smooth and efficient driving experience. Priced at $28,000, the silver exterior adds a touch of modernity. The Song Plus has a top speed of 200 km/h, making it a practical and fashionable choice for city dwellers.",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 9,
+      "brand": "BYD",
+      "model": "e6",
+      "year": 2023,
+      "description": "The BYD e6 is an electric vehicle that combines eco-friendliness with modern design. Powered by an electric motor with a Single-Speed transmission, it offers a quiet and emissions-free driving experience. Priced at $35,000, the yellow exterior adds a vibrant touch. With a top speed of 180 km/h, the e6 is a green and futuristic choice for environmentally conscious drivers.",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 10,
+      "brand": "Chery",
+      "model": "Exeed TXL",
+      "year": 2023,
+      "description": "The Chery Exeed TXL is a sleek and powerful SUV designed for those who appreciate a balance of style and performance. Featuring a 1.6L Turbocharged engine and automatic transmission, it offers a responsive and enjoyable driving experience. Priced at $24,500, the white exterior exudes sophistication. With a top speed of 190 km/h, the Exeed TXL is a practical and stylish choice for various driving scenarios.",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 11,
+      "brand": "Chery",
+      "model": "Arrizo GX",
+      "year": 2023,
+      "description": "The Chery Arrizo GX is a compact sedan that combines efficiency with modern design. With its 1.6L Turbocharged engine and automatic transmission, it provides a smooth and fuel-efficient ride. Priced at $23,000, the gold exterior adds a touch of luxury. The Arrizo GX has a top speed of 190 km/h, making it a practical and stylish choice for urban commuting.",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 12,
+      "brand": "Chery",
+      "model": "Tiggo 8",
+      "year": 2023,
+      "description": "The Chery Tiggo 8 is a spacious and versatile SUV designed for families and adventure enthusiasts. Its 1.5L Turbocharged engine and CVT transmission provide a dynamic and comfortable driving experience. Priced at $27,000, the black exterior adds a touch of sophistication. With a top speed of 200 km/h, the Tiggo 8 is a practical and stylish choice for various lifestyles.",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 13,
+      "brand": "NIO",
+      "model": "ES8",
+      "year": 2023,
+      "description": "The NIO ES8 is an electric SUV that redefines luxury and performance. Powered by dual electric motors with a Single-Speed transmission, it offers instant torque and a quiet driving experience. Priced at $60,000, the black exterior adds a touch of elegance. With a top speed of 250 km/h, the ES8 is a premium choice for those who value high-performance electric vehicles.",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 14,
+      "brand": "NIO",
+      "model": "EC6",
+      "year": 2023,
+      "description": "The NIO EC6 is a stylish electric SUV designed for the modern driver. With dual electric motors and a Single-Speed transmission, it offers a responsive and efficient driving experience. Priced at $55,000, the blue exterior adds a touch of sophistication. With a top speed of 240 km/h, the EC6 is a premium and environmentally conscious choice for urban living.",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 15,
+      "brand": "NIO",
+      "model": "ET7",
+      "year": 2023,
+      "description": "The NIO ET7 is a luxury electric sedan that combines elegance with cutting-edge technology. Powered by dual electric motors and a Single-Speed transmission, it offers a smooth and quiet driving experience. Priced at $70,000, the brown exterior adds a touch of sophistication. With a top speed of 260 km/h, the ET7 is a premium choice for those who appreciate the future of electric luxury.",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 16,
+      "brand": "Lynk & Co",
+      "model": "01",
+      "year": 2023,
+      "description": "The Lynk & Co 01 is a compact SUV designed for urban adventurers. With its 1.5L Turbocharged engine and automatic transmission, it offers a responsive and efficient driving experience. Priced at $25,500, the green exterior adds a touch of style. With a top speed of 190 km/h, the 01 is a practical and fashionable choice for those who value versatility and modern design.",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 17,
+      "brand": "Lynk & Co",
+      "model": "02",
+      "year": 2023,
+      "description": "The Lynk & Co 02 is a sleek and modern compact SUV designed for urban living. Featuring a 1.5L Turbocharged engine and automatic transmission, it provides a smooth and enjoyable driving experience. Priced at $26,500, the purple exterior adds a touch of sophistication. With a top speed of 190 km/h, the 02 is a practical and stylish choice for city dwellers.",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 18,
+      "brand": "Lynk & Co",
+      "model": "03",
+      "year": 2023,
+      "description": "The Lynk & Co 03 is a sporty sedan that combines performance with modern design. With its 2.0L Turbocharged engine and Dual-Clutch transmission, it offers a dynamic and enjoyable driving experience. Priced at $28,000, the red exterior adds a touch of flair. With a top speed of 200 km/h, the 03 is a stylish and performance-oriented choice for driving enthusiasts.",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 19,
+      "brand": "XPeng",
+      "model": "P5",
+      "year": 2023,
+      "description": "The XPeng P5 is an electric sedan that redefines the future of urban mobility. Powered by dual electric motors with a Single-Speed transmission, it offers a quiet and efficient driving experience. Priced at $42,000, the white exterior adds a touch of elegance. With a top speed of 220 km/h, the P5 is a premium choice for those who value high-performance electric vehicles.",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 20,
+      "brand": "XPeng",
+      "model": "G5",
+      "year": 2023,
+      "description": "The XPeng G5 is a dynamic electric SUV designed for versatility and performance. With dual electric motors and a Single-Speed transmission, it offers instant torque and a smooth driving experience. Priced at $45,000, the teal exterior adds a touch of style. With a top speed of 220 km/h, the G5 is a premium and environmentally conscious choice for urban adventures.",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 21,
+      "brand": "XPeng",
+      "model": "G9",
+      "year": 2023,
+      "description": "The XPeng G9 is an electric SUV that combines style with cutting-edge technology. Powered by dual electric motors and a Single-Speed transmission, it offers a quiet and responsive driving experience. Priced at $48,000, the gray exterior adds a touch of sophistication. With a top speed of 230 km/h, the G9 is a premium choice for those who appreciate high-performance electric vehicles.",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 22,
+      "brand": "BYD",
+      "model": "e3",
+      "year": 2023,
+      "description": "The BYD e3 is an electric sedan designed for eco-conscious urban living. Powered by an electric motor with a Single-Speed transmission, it offers a quiet and emissions-free driving experience. Priced at $33,000, the cyan exterior adds a vibrant touch. With a top speed of 180 km/h, the e3 is a green and practical choice for daily commuting.",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 23,
+      "brand": "BYD",
+      "model": "Tang",
+      "year": 2023,
+      "description": "The BYD Tang is a hybrid SUV that combines fuel efficiency with performance. Equipped with a 2.0L Turbo Hybrid engine and Dual-Clutch transmission, it offers a dynamic and eco-friendly driving experience. Priced at $30,000, the silver exterior exudes sophistication. With a top speed of 220 km/h, the Tang is a forward-thinking choice for those who value sustainability.",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 24,
+      "brand": "BYD",
+      "model": "Song Plus",
+      "year": 2023,
+      "description": "The BYD Song Plus is a versatile and stylish SUV designed for urban living. With its 1.5L Turbocharged engine and CVT transmission, it delivers a smooth and efficient driving experience. Priced at $28,000, the silver exterior adds a touch of modernity. The Song Plus has a top speed of 200 km/h, making it a practical and fashionable choice for city dwellers.",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 25,
+      "brand": "Changan",
+      "model": "CS35 Plus",
+      "year": 2023,
+      "description": "The Changan CS35 Plus is a compact SUV designed for urban adventures. With a 1.6L Turbocharged engine and automatic transmission, it offers a responsive and fuel-efficient driving",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 25,
+      "brand": "Changan",
+      "model": "CS35 Plus",
+      "year": 2023,
+      "description": "The Changan CS35 Plus is a compact SUV designed for urban adventures. With a 1.6L Turbocharged engine and automatic transmission, it offers a responsive and fuel-efficient driving",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 26,
+      "brand": "Changan",
+      "model": "CS35 Plus",
+      "year": 2023,
+      "description": "The Changan CS35 Plus is a compact SUV designed for urban adventures. With a 1.6L Turbocharged engine and automatic transmission, it offers a responsive and fuel-efficient driving",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 27,
+      "brand": "Changan",
+      "model": "CS35 Plus",
+      "year": 2023,
+      "description": "The Changan CS35 Plus is a compact SUV designed for urban adventures. With a 1.6L Turbocharged engine and automatic transmission, it offers a responsive and fuel-efficient driving",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 28,
+      "brand": "Changan",
+      "model": "CS35 Plus",
+      "year": 2023,
+      "description": "The Changan CS35 Plus is a compact SUV designed for urban adventures. With a 1.6L Turbocharged engine and automatic transmission, it offers a responsive and fuel-efficient driving",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 29,
+      "brand": "Changan",
+      "model": "CS35 Plus",
+      "year": 2023,
+      "description": "The Changan CS35 Plus is a compact SUV designed for urban adventures. With a 1.6L Turbocharged engine and automatic transmission, it offers a responsive and fuel-efficient driving",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    },
+    {
+      "id": 30,
+      "brand": "Changan",
+      "model": "CS35 Plus",
+      "year": 2023,
+      "description": "The Changan CS35 Plus is a compact SUV designed for urban adventures. With a 1.6L Turbocharged engine and automatic transmission, it offers a responsive and fuel-efficient driving",
+      "fuelEfficiency": "8.5 L/100km",
+      "seatingCapacity": 5,
+      "safetyFeatures": [
+        "Adaptive Cruise Control",
+        "Lane Departure Warning",
+        "Blind Spot Monitoring"
+      ],
+      "cargoCapacity": "500 liters"
+    }
+  ]
+}
